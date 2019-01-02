@@ -1,4 +1,4 @@
-package main;
+package main.java.main;
 
 public class FixMsg {
     private int id;
